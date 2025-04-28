@@ -1,0 +1,19 @@
+# security feeds
+http://feeds.feedburner.com/TheHackersNews?format=xml
+https://news.ycombinator.com/rss
+https://www.heise.de/security/rss/news-atom.xml
+
+# personal feeds
+https://danielmiessler.com/feed/
+https://grahamcluley.com/feed
+https://www.schneier.com/feed/atom
+http://blog.cleancoder.com/atom.xml
+http://feeds.feedburner.com/TroyHunt?format=xml
+https://drewdevault.com/feed.xml
+
+# free software feeds
+https://planet.gnu.org/rss20.xml
+
+# reddit feeds
+https://www.reddit.com/r/commandline.rss
+https://www.reddit.com/r/coolgithubprojects.rss

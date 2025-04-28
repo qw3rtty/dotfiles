@@ -1,0 +1,13 @@
+[user]
+	name = qw3rtty
+	email = hi@tomschwarz.info
+[credential]
+	username = qw3rtty
+[core]
+	editor = vim 
+[alias]
+	fuckoff = reset --hard
+	cleanup = clean -dxf
+	notmerged = log --branches --not --remotes --no-walk --decorate --oneline
+[gitreview]
+	username = qw3rtty
